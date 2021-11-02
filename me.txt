@@ -1,4 +1,12 @@
 Hola mi nombre es Nicolás 
 
-Tengo 22 años y vivo en San Miguel de Allende
+Tengo 22 años y vivo en México
 hace ya 4 meses que empeze a estudiar en platzi
+recien acabe el curso basico de Python, estoy empezando con mi 
+carrera como Desarrollador
+siento que la carrera de seguridad informatica me llama la atención...
+
+me gusta salir a pasear en bicicleta y coorrer por las mañanas
+
+estoy interesado en aprender sobre como se programa la blockchaing y 
+las wallets digitales tengo entendido que tienes que empezar por solidity.
